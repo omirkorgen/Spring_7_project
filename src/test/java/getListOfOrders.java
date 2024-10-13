@@ -4,7 +4,7 @@ import org.example.order.OrderManager;
 import org.junit.Test;
 import io.qameta.allure.junit4.DisplayName;
 
-public class GetListOfOrders {
+public class getListOfOrders {
 
     private OrderChecks checks = new OrderChecks();
     private OrderManager orderManager = new OrderManager();
